@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajkhattak&show_icons=true&count_private=true&theme=dark)
 
 ## 🏆 Recent Activities
 
